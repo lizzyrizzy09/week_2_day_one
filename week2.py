@@ -5,5 +5,6 @@
 holiday =input("What is your favorite holiday?")
 print("Your favorite holdiday is" + holiday)
 # print out the day and their favorite holiday
-print("Today is" + day )
+print("Today is" + day + "and your favorite holiday is" + holiday )
 # a sentence 
+# making a change to the file
